@@ -1,0 +1,62 @@
+[
+    {
+        "id": 101,
+        "name": "Etihad Stadium",
+        "capacity": 53400,
+        "location": "Manchester, Engeland"
+    },
+    {
+        "id": 102,
+        "name": "Anfield",
+        "capacity": 53394,
+        "location": "Liverpool, Engeland"
+    },
+    {
+        "id": 103,
+        "name": "Stamford Bridge",
+        "capacity": 40834,
+        "location": "Londen, Engeland"
+    },
+    {
+        "id": 104,
+        "name": "Emirates Stadium",
+        "capacity": 60704,
+        "location": "Londen, Engeland"
+    },
+    {
+        "id": 105,
+        "name": "Old Trafford",
+        "capacity": 74879,
+        "location": "Manchester, Engeland"
+    },
+    {
+        "id": 106,
+        "name": "Tottenham Hotspur Stadium",
+        "capacity": 62850,
+        "location": "Londen, Engeland"
+    },
+    {
+        "id": 107,
+        "name": "St. James' Park",
+        "capacity": 52305,
+        "location": "Newcastle, Engeland"
+    },
+    {
+        "id": 108,
+        "name": "Villa Park",
+        "capacity": 42682,
+        "location": "Birmingham, Engeland"
+    },
+    {
+        "id": 109,
+        "name": "London Stadium",
+        "capacity": 60000,
+        "location": "Londen, Engeland"
+    },
+    {
+        "id": 110,
+        "name": "Amex Stadium",
+        "capacity": 31800,
+        "location": "Brighton, Engeland"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "name": "Manchester City",
+        "description": "Een van de meest succesvolle clubs in de Premier League.",
+        "founded": 1880,
+        "active": true,
+        "stadium": "Etihad Stadium",
+        "profile_image": "https://example.com/images/man_city.jpg",
+        "league_position": 1,
+        "colors": [
+            "blauw",
+            "wit"
+        ],
+        "stadium_info": {
+            "id": 101,
+            "name": "Etihad Stadium",
+            "capacity": 53400,
+            "location": "Manchester, Engeland"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Liverpool FC",
+        "description": "Historisch een van de meest succesvolle Engelse clubs.",
+        "founded": 1892,
+        "active": true,
+        "stadium": "Anfield",
+        "profile_image": "https://example.com/images/liverpool.jpg",
+        "league_position": 2,
+        "colors": [
+            "rood",
+            "wit"
+        ],
+        "stadium_info": {
+            "id": 102,
+            "name": "Anfield",
+            "capacity": 53394,
+            "location": "Liverpool, Engeland"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Chelsea FC",
+        "description": "Een topclub uit Londen met een rijke geschiedenis.",
+        "founded": 1905,
+        "active": true,
+        "stadium": "Stamford Bridge",
+        "profile_image": "https://example.com/images/chelsea.jpg",
+        "league_position": 3,
+        "colors": [
+            "blauw",
+            "wit"
+        ],
+        "stadium_info": {
+            "id": 103,
+            "name": "Stamford Bridge",
+            "capacity": 40834,
+            "location": "Londen, Engeland"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Arsenal FC",
+        "description": "Bekend om hun aanvallende speelstijl en rijke geschiedenis.",
+        "founded": 1886,
+        "active": true,
+        "stadium": "Emirates Stadium",
+        "profile_image": "https://example.com/images/arsenal.jpg",
+        "league_position": 4,
+        "colors": [
+            "rood",
+            "wit"
+        ],
+        "stadium_info": {
+            "id": 104,
+            "name": "Emirates Stadium",
+            "capacity": 60704,
+            "location": "Londen, Engeland"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Manchester United",
+        "description": "Een van de meest succesvolle clubs ter wereld.",
+        "founded": 1878,
+        "active": true,
+        "stadium": "Old Trafford",
+        "profile_image": "https://example.com/images/man_united.jpg",
+        "league_position": 5,
+        "colors": [
+            "rood",
+            "zwart"
+        ],
+        "stadium_info": {
+            "id": 105,
+            "name": "Old Trafford",
+            "capacity": 74879,
+            "location": "Manchester, Engeland"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Tottenham Hotspur",
+        "description": "Een club met een moderne infrastructuur en sterke ambitie.",
+        "founded": 1882,
+        "active": true,
+        "stadium": "Tottenham Hotspur Stadium",
+        "profile_image": "https://example.com/images/tottenham.jpg",
+        "league_position": 6,
+        "colors": [
+            "wit",
+            "blauw"
+        ],
+        "stadium_info": {
+            "id": 106,
+            "name": "Tottenham Hotspur Stadium",
+            "capacity": 62850,
+            "location": "Londen, Engeland"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Newcastle United",
+        "description": "Een club met een trouwe aanhang en rijke historie.",
+        "founded": 1892,
+        "active": true,
+        "stadium": "St. James' Park",
+        "profile_image": "https://example.com/images/newcastle.jpg",
+        "league_position": 7,
+        "colors": [
+            "zwart",
+            "wit"
+        ],
+        "stadium_info": {
+            "id": 107,
+            "name": "St. James' Park",
+            "capacity": 52305,
+            "location": "Newcastle, Engeland"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Aston Villa",
+        "description": "Een historische club uit Birmingham.",
+        "founded": 1874,
+        "active": true,
+        "stadium": "Villa Park",
+        "profile_image": "https://example.com/images/aston_villa.jpg",
+        "league_position": 8,
+        "colors": [
+            "bordeaux",
+            "blauw"
+        ],
+        "stadium_info": {
+            "id": 108,
+            "name": "Villa Park",
+            "capacity": 42682,
+            "location": "Birmingham, Engeland"
+        }
+    },
+    {
+        "id": 9,
+        "name": "West Ham United",
+        "description": "Een club met een sterke werkethiek en passie.",
+        "founded": 1895,
+        "active": true,
+        "stadium": "London Stadium",
+        "profile_image": "https://example.com/images/west_ham.jpg",
+        "league_position": 9,
+        "colors": [
+            "bordeaux",
+            "blauw"
+        ],
+        "stadium_info": {
+            "id": 109,
+            "name": "London Stadium",
+            "capacity": 60000,
+            "location": "Londen, Engeland"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Brighton & Hove Albion",
+        "description": "Een club die zich de laatste jaren goed ontwikkeld heeft.",
+        "founded": 1901,
+        "active": true,
+        "stadium": "Amex Stadium",
+        "profile_image": "https://example.com/images/brighton.jpg",
+        "league_position": 10,
+        "colors": [
+            "blauw",
+            "wit"
+        ],
+        "stadium_info": {
+            "id": 110,
+            "name": "Amex Stadium",
+            "capacity": 31800,
+            "location": "Brighton, Engeland"
+        }
+    }
+]
