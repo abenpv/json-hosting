@@ -6,7 +6,7 @@
         "founded": 1880,
         "active": true,
         "stadium": "Etihad Stadium",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/city.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/city.png",
         "league_position": 1,
         "colors": [
             "blauw",
@@ -26,7 +26,7 @@
         "founded": 1892,
         "active": true,
         "stadium": "Anfield",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/liverpool.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/liverpool.png",
         "league_position": 2,
         "colors": [
             "rood",
@@ -46,7 +46,7 @@
         "founded": 1905,
         "active": true,
         "stadium": "Stamford Bridge",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/chelsea.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/chelsea.png",
         "league_position": 3,
         "colors": [
             "blauw",
@@ -66,7 +66,7 @@
         "founded": 1886,
         "active": true,
         "stadium": "Emirates Stadium",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/arsenal.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/arsenal.png",
         "league_position": 4,
         "colors": [
             "rood",
@@ -86,7 +86,7 @@
         "founded": 1878,
         "active": true,
         "stadium": "Old Trafford",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/united.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/united.png",
         "league_position": 5,
         "colors": [
             "rood",
@@ -106,7 +106,7 @@
         "founded": 1882,
         "active": true,
         "stadium": "Tottenham Hotspur Stadium",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/tottenham.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/tottenham.png",
         "league_position": 6,
         "colors": [
             "wit",
@@ -126,7 +126,7 @@
         "founded": 1892,
         "active": true,
         "stadium": "St. James' Park",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/newcastle.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/newcastle.png",
         "league_position": 7,
         "colors": [
             "zwart",
@@ -146,7 +146,7 @@
         "founded": 1874,
         "active": true,
         "stadium": "Villa Park",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/astonvilla.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/astonvilla.png",
         "league_position": 8,
         "colors": [
             "bordeaux",
@@ -166,7 +166,7 @@
         "founded": 1895,
         "active": true,
         "stadium": "London Stadium",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/westham.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/westham.png",
         "league_position": 9,
         "colors": [
             "bordeaux",
@@ -186,7 +186,7 @@
         "founded": 1901,
         "active": true,
         "stadium": "Amex Stadium",
-        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/images/brighton.png",
+        "profile_image": "https://raw.githubusercontent.com/abenpv/json-hosting/refs/heads/main/jsonhost/images/brighton.png",
         "league_position": 10,
         "colors": [
             "blauw",
